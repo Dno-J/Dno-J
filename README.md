@@ -47,7 +47,7 @@ Cloud:         AWS EC2, Render
       Explainable semantic search system over structured healthcare-style data using retrieval-augmented generation.<br/><br/>
       <em>Django, Django REST Framework, Next.js, MongoDB (vector store), Sentence Transformers</em><br/><br/>
       <strong>Focus:</strong> hybrid retrieval, deterministic summaries, API contracts<br/><br/>
-      <a href="https://github.com/Dno-J/SysPulse">Repository</a>
+      <a href="https://github.com/Dno-J/bloodbank-rag-ai">Repository</a>
     </td>
   </tr>
   <tr>
