@@ -149,20 +149,6 @@ AI/Search        Semantic search, embeddings, RAG-style retrieval, vector stores
   </tr>
 </table>
 
----
-
-## Experience
-
-### Python Automation Developer — TrineBridge
-
-Built Python automation scripts for batch file processing, directory validation, CSV transformation, structured logging, and recurring production workflows across 100+ deliverables.
-
-### Python Development Intern — CODEXINTERN
-
-Built Python projects including a CSV Analysis Tool, Flask-based Sentiment Analysis App, and external API integration project. Worked on REST-style endpoints, JSON flows, debugging, and GitHub documentation.
-
----
-
 ## What I Am Working On
 
 ```txt
