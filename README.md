@@ -31,15 +31,14 @@ I am currently looking for junior Python backend / full-stack developer opportun
 
 ```txt
 Languages        Python, JavaScript, SQL
-Backend          FastAPI, Django, Django REST Framework, Flask, REST APIs
+Backend          FastAPI, Django, Django REST Framework, REST APIs
 Authentication   JWT authentication, protected routes, API validation
 Databases        PostgreSQL, SQLite, MySQL, MongoDB
 ORMs             SQLModel, SQLAlchemy, Django ORM
 Testing          Pytest, FastAPI TestClient, Postman, API testing
-Frontend         React, Next.js, HTML, CSS, Bootstrap, Tailwind CSS
+Frontend         React, HTML, CSS
 DevOps           Docker, Docker Compose, Git, GitHub, Linux
-Cloud            Render, AWS EC2, Neon PostgreSQL
-AI/Search        Semantic search, embeddings, RAG-style retrieval, vector stores
+Cloud            Render, Neon PostgreSQL
 ```
 
 ---
